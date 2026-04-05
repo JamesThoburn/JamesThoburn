@@ -18,5 +18,6 @@ I'm James, a 2nd year Mathematics student at Durham University with an interest 
 
 ## Connect With Me
 
+- Personal Website: [https://jamesthoburn.vercel.app/](https://jamesthoburn.vercel.app/)
 - LinkedIn: [https://linkedin.com/in/jamesthoburn](https://linkedin.com/in/jamesthoburn)
 - Email: [james_thoburn@outlook.com](mailto:james_thoburn@outlook.com)
