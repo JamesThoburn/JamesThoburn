@@ -23,8 +23,6 @@ I'm James, a 2nd year Mathematics student at Durham University with an interest 
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![R Markdown](https://img.shields.io/badge/rmarkdown-2C3E50?style=for-the-badge&logo=rstudio&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesthoburn&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Connect With Me
 
 - Personal Website: [https://jamesthoburn.vercel.app/](https://jamesthoburn.vercel.app/)
