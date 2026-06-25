@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm James, a 2nd year Mathematics student at Durham University with an interest in both software engineering and data science. I enjoy building full-stack projects and thinking about problems at the intersection of maths and computing.
+I'm James and I enjoy building full-stack applications using Next.js, React, TypeScript, Spring Boot and Tailwind CSS.
 
 ## Tech Stack
 
