@@ -1,6 +1,8 @@
-## Hello there 👋
+## 🚀 James Thoburn
 
-I'm James and I enjoy building full-stack applications using Next.js, React, TypeScript, Spring Boot and Tailwind CSS.
+`Software Engineer`
+
+👨🏼 Hello! My name is James, and I'm a full-stack developer based in South Tyneside, England. I specialise in building web applications, blending robust backend engineering with enjoyable frontend experiences. My work ranges from building data pipelines in Python, to developing full-stack web applications using Next.js, Spring Boot, React and TypeScript. Driven by a passion for clean code that catches errors and seamless design that works on all devices, I thrive on delivering software that is both reliable and helps others.
 
 ## Tech Stack
 
